@@ -49,5 +49,6 @@ See the [open issues](https://github.com/DevDiscover-Toolkit/app/issues) for a f
 
 - [Slack](codingdojocodezero.slack.com)
 - [Trello](https://trello.com/b/fGhdudS4/devdiscover-your-developer-toolkit)
+- [GitHub Projects](https://github.com/orgs/DevDiscover-Toolkit/projects/2)
 - [Resources](https://hackmd.io/Q0GLmSMvSuaxD6oIzTLyHA)
 - [Figma Designs](https://www.figma.com/file/re51NTLpdgzEIAO8mylNC4/Untitled?type=design&node-id=0%3A1&mode=design&t=cqbnuHLcVn1M3fZG-1)
